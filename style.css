@@ -20,9 +20,6 @@ main i {
 	font-weight: 900;
 	width: 60%;
 }
-.headline-kaz > h1:hover {
-	text-shadow: 0px 0px 5px yellow, 0px -5px 0px red;
-}
 /*Section*/
 .section-kaz {
 	margin-bottom: 5%;
