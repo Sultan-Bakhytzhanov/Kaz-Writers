@@ -40,12 +40,13 @@ main i {
 	font-weight: 900;
 }
 /*Footer*/
-.source-altynsarin {
-	margin-top: 3%;
-	margin-left: 35%;
-	width: 30%;
-	text-align: center;
-	border: 2px solid black;
+footer {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+footer div {
+	width: 25%;
 }
 /*Other*/
 main a,
